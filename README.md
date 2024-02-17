@@ -2,6 +2,7 @@
 
 本仓库，是作者在日常工作中的笔记，方便及时分享，也方便自己查阅。
 
+- [2024.02 llama code 配合 vscode 做代码补全 nvidia jetson 版本](./notes/2024.01.codellama.jetson.md)
 - [2024.02 llama code 配合 vscode 做代码补全 openshift AI 版本](./ocp4/4.14/4.14.codellama.vscode.ocp.ai.md)
 - [2024.02 llama code 配合 vscode 做代码补全 openshift 版本](./ocp4/4.14/4.14.codellama.vscode.ocp.md)
 - [2024.01 llama code 配合 vscode 做代码补全 rhel 版本](./notes/2024.01.codellama.vscode.md)
