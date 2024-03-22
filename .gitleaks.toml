@@ -1,0 +1,4 @@
+# Global allowlist
+[allowlist]
+	description = "global allow lists"
+	files = ['''(.*?)$''']
